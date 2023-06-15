@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="rounded_corner_radius_top">28dp</dimen>
+  <dimen name="rounded_corner_radius_bottom">28dp</dimen>
+  <dimen name="rounded_corner_radius">28dp</dimen>
+
+  <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+  <string translatable="false" name="config_mainBuiltInDisplayCutout">
+    M 0,0
+    H -220
+    V 149
+    H 0
+    V 0
+    Z
+    @right
+  </string>
+</resources>
