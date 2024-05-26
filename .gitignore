@@ -1,4 +1,2 @@
-apks/
+apks/*
 module/system/product/overlay/*.apk
-
-.idea
