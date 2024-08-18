@@ -1,5 +1,7 @@
-<h1 align="center">vendor_hardware_overlay</h1>
-<h2 align="center">System overlays for Android devices that I own</h2>
+<div align="center">
+    <h1>vendor_hardware_overlay</h1>
+    <h2>System overlays for Android devices that I own</h2>
+</div>
 
 <div align="center">
   <img alt="Stargazers" src="https://img.shields.io/github/stars/budchirp/vendor_hardware_overlay?style=for-the-badge&colorA=0b1221&colorB=ff8e8e" />
@@ -8,4 +10,5 @@
 </div>
 
 ## Supported devices
+
 - S10
