@@ -15,8 +15,8 @@ jobs:
           distribution: "oracle"
           java-version: "17"
 
-      - name: Create
-        run: ./create.sh
+      - name: Build overlays
+        run: ./third_party/build.sh
 
       - uses: actions/upload-artifact@v4
         with:

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="status_bar_header_height_keyguard">@*android:dimen/status_bar_height</dimen>
+
+  <dimen name="status_bar_padding_start">16dp</dimen>
+  <dimen name="status_bar_padding_end">0dp</dimen>
+  <dimen name="status_bar_padding_top">10dp</dimen>
+
+  <dimen name="qs_header_height">@*android:dimen/status_bar_height</dimen>
+</resources>
