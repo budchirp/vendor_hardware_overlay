@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <dimen name="status_bar_padding_start">16dp</dimen>
-  <dimen name="status_bar_padding_end">0dp</dimen>
-  <dimen name="status_bar_padding_top">10dp</dimen>
+  <dimen name="status_bar_header_height_keyguard">0px</dimen>
+  <dimen name="keyguard_carrier_text_margin">0px</dimen>
 
-  <item name="qqs_expand_clock_scale" format="float" type="dimen">1</item>
+  <dimen name="status_bar_padding_top">10dp</dimen>
+  <dimen name="status_bar_padding_bottom">0dp</dimen>
+
+  <dimen name="status_bar_padding_start">0dp</dimen>
+  <dimen name="status_bar_padding_end">0dp</dimen>
 </resources>
